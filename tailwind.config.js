@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-	content: [],
-	theme: {
+	content: ["./themes/hugo-resume/**/*.{html,js}"],
+	theme  : {
 		extend: {},
 	},
 	plugins: [],
