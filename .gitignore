@@ -1,3 +1,9 @@
 .DS_Store
 *.lock
-public/**
+public/*
+public/index.html
+public/index.xml
+public/sitemap.xml
+public/css/styles.css
+public/tags/index.html
+public/tags/index.xml
