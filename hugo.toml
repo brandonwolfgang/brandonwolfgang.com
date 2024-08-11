@@ -17,6 +17,7 @@ PygmentsStyle                 = "monokai"
 	phone        = "1-989-245-5096"
 	profileImage = "images/avatar.png"
 	sections     = ["skills","experience","education"]
+	showAddress  = false
 	showContact  = false
 	showQr       = true
 	showSocialLinks = true
